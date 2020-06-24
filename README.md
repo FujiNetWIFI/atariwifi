@@ -1,3 +1,7 @@
+# This repository has been archived. Please see the following link for the current version:
+https://github.com/FujiNetWIFI/fujinet-platformio
+=========
+
 #fujinet   
 =========
 
